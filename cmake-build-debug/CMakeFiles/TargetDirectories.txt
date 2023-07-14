@@ -1,0 +1,3 @@
+C:/C++/Standalone/PassManager/cmake-build-debug/CMakeFiles/PassManager.dir
+C:/C++/Standalone/PassManager/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/C++/Standalone/PassManager/cmake-build-debug/CMakeFiles/rebuild_cache.dir
